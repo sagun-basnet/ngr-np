@@ -1,6 +1,7 @@
 <h3 align="center">A passionate Web developer from NEPAL</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngr-np" alt="ngr-np" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngr-np=ryo-ma&theme=darkhub" alt="ngr-np" /></a> </p>
+
 <a href="https://app.daily.dev/tej"><img align="right" src="https://api.daily.dev/devcards/492adb9d3f204c45b0a3bfac80b5b134.png?r=xsb" width="400" alt="NGR's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/ngrnep" target="blank"><img src="https://img.shields.io/twitter/follow/ngrnep?logo=twitter&style=for-the-badge" alt="ngrnep" /></a> </p>
 
