@@ -1,8 +1,7 @@
 <h3 align="center">A passionate Web developer from NEPAL</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngr-np" alt="ngr-np" /></a> </p>
-<a href="https://app.daily.dev/tej"><img align="right" transition="transform 0.8s"
-  transform-style="preserve-3d" &transform:hover="rotateY(180deg)" src="https://api.daily.dev/devcards/492adb9d3f204c45b0a3bfac80b5b134.png?r=xsb" width="400" alt="NGR's Dev Card"/></a>
+<a href="https://app.daily.dev/tej"><img align="right" src="https://api.daily.dev/devcards/492adb9d3f204c45b0a3bfac80b5b134.png?r=xsb" width="400" alt="NGR's Dev Card"/></a>
 <p align="left"> <a href="https://twitter.com/ngrnep" target="blank"><img src="https://img.shields.io/twitter/follow/ngrnep?logo=twitter&style=for-the-badge" alt="ngrnep" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
