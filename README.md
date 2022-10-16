@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [tejbahadurkarki.name.np](tejbahadurkarki.name.np)
 
-- 📝 I regularly write articles on [tejbahadurkarki.com.np](tejbahadurkarki.com.np)
+- 📝 I regularly write articles on [https://tejbahadurkarki.com.np](tejbahadurkarki.com.np)
 
 - 📫 How to reach me **info@tejbahadurkarki.com.np**
 
