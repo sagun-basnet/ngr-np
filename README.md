@@ -37,4 +37,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngr-np&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ngr-np" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ngr-np&show_icons=true&theme=tokyonight&locale=en" alt="ngr-np" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ngr-np&show_icons=true&theme=tokyonight&locale=en" width="40" alt="ngr-np" /></p>
