@@ -14,7 +14,7 @@
 - 📫 How to reach me **info@tejbahadurkarki.com.np**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ngrnep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngrnep" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tejbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejbk" height="30" width="40" /></a>
 <a href="https://instagram.com/tej_b_karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tej_b_karki" height="30" width="40" /></a>
