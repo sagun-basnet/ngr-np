@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [tejbahadurkarki.name.np](https://tejbahadurkarki.name.np)
+- 👨‍💻 All of my projects are available at [tejbahadurkarki.name.np](https://tejbahadurkarki.com.np)
 
-- 📝 I regularly write articles on [tejbahadurkarki.com.np](https://tejbahadurkarki.com.np)
+<!-- - 📝 I regularly write articles on [tejbahadurkarki.com.np](https://tejbahadurkarki.com.np)-->
 
-- 📫 How to reach me **info@tejbahadurkarki.com.np**
+- 📫 How to reach me **contact@tejbahadurkarki.com.np**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
