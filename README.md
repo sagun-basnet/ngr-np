@@ -18,7 +18,7 @@
 <a href="https://twitter.com/ngrnep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ngrnep" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tejbk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejbk" height="30" width="40" /></a>
 <a href="https://instagram.com/tej_b_karki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tej_b_karki" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/jHYTfN8b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jHYTfN8b" height="30" width="40" /></a>
+<a href="https://discord.gg/wE9hQUPX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jHYTfN8b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" >Languages and Tools:</h3>
