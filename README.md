@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [tejbahadurkarki.name.np](https://tejbahadurkarki.com.np)
+- 👨‍💻 All of my projects are available at [tejbahadurkarki.com.np](https://tejbahadurkarki.com.np)
 
 <!-- - 📝 I regularly write articles on [tejbahadurkarki.com.np](https://tejbahadurkarki.com.np)-->
 
